@@ -1,4 +1,4 @@
-# Pygame-Inheritance-Demo
+# Pygame: InheritanceDemo
 
 Inheritance in Python is a fundamental concept in object-oriented programming (OOP) that allows one class (called a **child class** or **subclass**) to inherit the attributes and methods of another class (called a **parent class** or **superclass**). This allows for code reuse, better organization, and the creation of hierarchical relationships between classes.
 
